@@ -205,7 +205,19 @@ Com o NotebookLM foi possível:
 - Criar material para revisão técnica.
 - Reduzir o tempo gasto na consulta de documentos.
 - Melhorar a consistência das interpretações normativas.
+---
 
+# 📷 Demonstração
+
+## Base documental carregada no NotebookLM
+
+![Base documental](fotos%201.JPG)
+
+## Exemplo de utilização do NotebookLM
+
+![Exemplo de utilização](fotos%202.JPG)
+
+---
 ---
 
 # 🚀 Conclusão
